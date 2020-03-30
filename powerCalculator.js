@@ -4,10 +4,6 @@ function powerCalculator(base, exp) {
     return 'exponent should be >= 0';
   }
 
-  if (exp === 1) {
-    return base;
-  }
-
   if (exp === 0) {
     return 1;
   }

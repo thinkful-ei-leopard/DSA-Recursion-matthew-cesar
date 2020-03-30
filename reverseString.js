@@ -9,7 +9,3 @@ function reverseString(input){
 console.log(reverseString('hello'));
 console.log(reverseString('world'));
 console.log(reverseString('tacocat'));
-
-module.exports = {
-  reverseString
-};
